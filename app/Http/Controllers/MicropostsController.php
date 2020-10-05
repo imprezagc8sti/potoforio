@@ -32,7 +32,6 @@ class MicropostsController extends Controller
         }
     }
 
-
 //store アクション
 //store アクションでは create メソッドを使って Micropost を保存。
 //これにより Micropost を投稿できるようになる。
